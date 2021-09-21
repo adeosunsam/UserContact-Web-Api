@@ -1,0 +1,17 @@
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\bin\Debug\net5.0\UserAthentication.DTOs.deps.json
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\bin\Debug\net5.0\UserAthentication.DTOs.dll
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\bin\Debug\net5.0\ref\UserAthentication.DTOs.dll
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\bin\Debug\net5.0\UserAthentication.DTOs.pdb
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\bin\Debug\net5.0\UserAthentication.Model.dll
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\bin\Debug\net5.0\UserAthentication.Model.pdb
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\obj\Debug\net5.0\UserAthentication.DTOs.csproj.AssemblyReference.cache
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\obj\Debug\net5.0\UserAthentication.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\obj\Debug\net5.0\UserAthentication.DTOs.AssemblyInfoInputs.cache
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\obj\Debug\net5.0\UserAthentication.DTOs.AssemblyInfo.cs
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\obj\Debug\net5.0\UserAthentication.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\obj\Debug\net5.0\UserAthentication.DTOs.dll
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\obj\Debug\net5.0\ref\UserAthentication.DTOs.dll
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\obj\Debug\net5.0\UserAthentication.DTOs.pdb
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\bin\Debug\net5.0\UserAthentication.Common.dll
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\bin\Debug\net5.0\UserAthentication.Common.pdb
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\obj\Debug\net5.0\UserAthentication.DTOs.csproj.CopyComplete

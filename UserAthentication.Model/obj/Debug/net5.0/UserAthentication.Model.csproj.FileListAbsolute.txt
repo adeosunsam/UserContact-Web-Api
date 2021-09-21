@@ -1,0 +1,12 @@
+C:\Users\hp\source\vs2022\UserAthentication\UserAthentication.Model\bin\Debug\net5.0\UserAthentication.Model.deps.json
+C:\Users\hp\source\vs2022\UserAthentication\UserAthentication.Model\bin\Debug\net5.0\UserAthentication.Model.dll
+C:\Users\hp\source\vs2022\UserAthentication\UserAthentication.Model\bin\Debug\net5.0\ref\UserAthentication.Model.dll
+C:\Users\hp\source\vs2022\UserAthentication\UserAthentication.Model\bin\Debug\net5.0\UserAthentication.Model.pdb
+C:\Users\hp\source\vs2022\UserAthentication\UserAthentication.Model\obj\Debug\net5.0\UserAthentication.Model.csproj.AssemblyReference.cache
+C:\Users\hp\source\vs2022\UserAthentication\UserAthentication.Model\obj\Debug\net5.0\UserAthentication.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\vs2022\UserAthentication\UserAthentication.Model\obj\Debug\net5.0\UserAthentication.Model.AssemblyInfoInputs.cache
+C:\Users\hp\source\vs2022\UserAthentication\UserAthentication.Model\obj\Debug\net5.0\UserAthentication.Model.AssemblyInfo.cs
+C:\Users\hp\source\vs2022\UserAthentication\UserAthentication.Model\obj\Debug\net5.0\UserAthentication.Model.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\vs2022\UserAthentication\UserAthentication.Model\obj\Debug\net5.0\UserAthentication.Model.dll
+C:\Users\hp\source\vs2022\UserAthentication\UserAthentication.Model\obj\Debug\net5.0\ref\UserAthentication.Model.dll
+C:\Users\hp\source\vs2022\UserAthentication\UserAthentication.Model\obj\Debug\net5.0\UserAthentication.Model.pdb

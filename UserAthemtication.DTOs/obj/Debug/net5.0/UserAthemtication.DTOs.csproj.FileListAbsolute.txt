@@ -1,0 +1,14 @@
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\bin\Debug\net5.0\UserAthemtication.DTOs.deps.json
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\bin\Debug\net5.0\UserAthemtication.DTOs.dll
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\bin\Debug\net5.0\ref\UserAthemtication.DTOs.dll
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\bin\Debug\net5.0\UserAthemtication.DTOs.pdb
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\bin\Debug\net5.0\UserAthentication.Model.dll
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\bin\Debug\net5.0\UserAthentication.Model.pdb
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\obj\Debug\net5.0\UserAthemtication.DTOs.csproj.AssemblyReference.cache
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\obj\Debug\net5.0\UserAthemtication.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\obj\Debug\net5.0\UserAthemtication.DTOs.AssemblyInfoInputs.cache
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\obj\Debug\net5.0\UserAthemtication.DTOs.AssemblyInfo.cs
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\obj\Debug\net5.0\UserAthemtication.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\obj\Debug\net5.0\UserAthemtication.DTOs.dll
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\obj\Debug\net5.0\ref\UserAthemtication.DTOs.dll
+C:\Users\hp\source\vs2022\UserAthentication\UserAthemtication.DTOs\obj\Debug\net5.0\UserAthemtication.DTOs.pdb
